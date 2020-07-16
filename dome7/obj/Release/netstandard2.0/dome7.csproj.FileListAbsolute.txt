@@ -1,0 +1,9 @@
+E:\7.27\.net project\dome7\bin\Release\netstandard2.0\dome7.deps.json
+E:\7.27\.net project\dome7\bin\Release\netstandard2.0\dome7.dll
+E:\7.27\.net project\dome7\bin\Release\netstandard2.0\dome7.pdb
+E:\7.27\.net project\dome7\obj\Release\netstandard2.0\dome7.csprojAssemblyReference.cache
+E:\7.27\.net project\dome7\obj\Release\netstandard2.0\dome7.AssemblyInfoInputs.cache
+E:\7.27\.net project\dome7\obj\Release\netstandard2.0\dome7.AssemblyInfo.cs
+E:\7.27\.net project\dome7\obj\Release\netstandard2.0\dome7.csproj.CoreCompileInputs.cache
+E:\7.27\.net project\dome7\obj\Release\netstandard2.0\dome7.dll
+E:\7.27\.net project\dome7\obj\Release\netstandard2.0\dome7.pdb

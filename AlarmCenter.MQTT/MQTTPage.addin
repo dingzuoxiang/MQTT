@@ -1,0 +1,18 @@
+﻿<AddIn name        = "AlarmCenter.MQTT"
+       author      = "cgr"
+       description = "Display AlarmCenter.MQTT">
+
+  <Manifest>
+    <Identity name = "AlarmCenter.MQTT"/>
+  </Manifest>
+
+  <Runtime>
+    <Import assembly="AlarmCenter.MQTT.dll"/>
+  </Runtime>
+  <Path name = "/SharpDevelop/Workbench/MainMenu/Integrate">
+    <MenuItem id = "AlarmCenter.MQTT"
+					  icon  = "Icons.16x16.SharpQuery.View"
+				  label = "MQTT协议"
+				  class =  "PageMenuCommand(AlarmCenter.MQTT.MQTTPage)"/>
+  </Path>
+</AddIn>

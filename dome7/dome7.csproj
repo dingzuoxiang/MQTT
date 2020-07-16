@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AlarmCenter.DataCenter" Version="1.0.0" />
+    <PackageReference Include="MQTTnet" Version="2.7.5" />
+  </ItemGroup>
+
+</Project>

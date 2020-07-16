@@ -1,0 +1,15 @@
+D:\AlarmCenter\AddIns\AddIns\AlarmCenter\MQTT\MQTTPage.addin
+D:\AlarmCenter\AddIns\AddIns\AlarmCenter\MQTT\AlarmCenter.MQTT.dll
+D:\AlarmCenter\AddIns\AddIns\AlarmCenter\MQTT\AlarmCenter.MQTT.pdb
+E:\7.27\.net project\AlarmCenter.MQTT\obj\Debug\MQTTPage.g.cs
+E:\7.27\.net project\AlarmCenter.MQTT\obj\Debug\AlarmCenter.MQTT_MarkupCompile.cache
+E:\7.27\.net project\AlarmCenter.MQTT\obj\Debug\AlarmCenter.MQTT_MarkupCompile.lref
+E:\7.27\.net project\AlarmCenter.MQTT\obj\Debug\MQTTPage.baml
+E:\7.27\.net project\AlarmCenter.MQTT\obj\Debug\AlarmCenter.MQTT.g.resources
+E:\7.27\.net project\AlarmCenter.MQTT\obj\Debug\AlarmCenter.MQTT.Properties.Resources.resources
+E:\7.27\.net project\AlarmCenter.MQTT\obj\Debug\AlarmCenter.MQTT.csproj.GenerateResource.cache
+E:\7.27\.net project\AlarmCenter.MQTT\obj\Debug\AlarmCenter.MQTT.csproj.CoreCompileInputs.cache
+E:\7.27\.net project\AlarmCenter.MQTT\obj\Debug\AlarmCenter.MQTT.csproj.CopyComplete
+E:\7.27\.net project\AlarmCenter.MQTT\obj\Debug\AlarmCenter.MQTT.dll
+E:\7.27\.net project\AlarmCenter.MQTT\obj\Debug\AlarmCenter.MQTT.pdb
+E:\7.27\.net project\AlarmCenter.MQTT\obj\Debug\AlarmCenter.MQTT.csprojAssemblyReference.cache
